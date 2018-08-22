@@ -4,7 +4,6 @@
 */
 
 #include <SFML/Graphics.hpp>
-#include <iostream>
 
 #include "cball.h"
 #include "cpaddle.h"
